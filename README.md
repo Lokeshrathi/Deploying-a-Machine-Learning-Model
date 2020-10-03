@@ -1,7 +1,5 @@
 # Deploying-a-Machine-Learning-Model
 
-# Deploying-a-Machine-Learning-Model
-
 ## Inspiration
 ### Want to learn how to Deploy your model on Ubuntu using Streamlit on Heroku, you are at the correct place.
 
